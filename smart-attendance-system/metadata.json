@@ -1,0 +1,7 @@
+{
+  "name": "Smart Attendance System",
+  "description": "Next-gen attendance system utilizing Gemini computer vision for real-time face detection, recognition, and automated logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
